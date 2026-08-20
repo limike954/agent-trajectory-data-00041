@@ -1,0 +1,4 @@
+sphinx>=6.1.3
+docutils>=0.19
+wabi-sphinx-theme @ git+https://github.com/limike954/mcw-sphinx-theme.git
+sphinxcontrib-googleanalytics
